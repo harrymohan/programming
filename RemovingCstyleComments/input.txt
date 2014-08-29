@@ -1,0 +1,6 @@
+"http://www.google.com" // comment after URL
+// this is a comment
+{ // another comment
+   true, "foo", // 3rd comment
+   
+}
